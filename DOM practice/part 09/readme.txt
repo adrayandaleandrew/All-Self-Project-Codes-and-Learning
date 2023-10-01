@@ -1,0 +1,1 @@
+Write a JavaScript program to count and display dropdown list items in an alert window.

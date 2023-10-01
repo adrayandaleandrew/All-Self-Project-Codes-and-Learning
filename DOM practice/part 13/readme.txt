@@ -1,0 +1,1 @@
+ Write a JavaScript program to get the window width and height (any time the window is resized).

@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    width: fit-content;
+}
+
+.mainBX{
+    margin: 5px;
+    padding: 8px;
+    display: block;
+    background-color: antiquewhite;
+
+
+}
+
+header{
+    font-size: 1.5em;
+    margin: 20px 0;
+    
+}
+
+
+
+.items{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    
+}
+
+
+
+button i{
+    color: rgb(173, 25, 25);
+}
+
+button i:hover{
+    color: red;
+}
+
+.inputArea{
+    width: 90%;
+    font-size: 12px;
+    padding: 5px 4px;
+    border-style: none;
+}

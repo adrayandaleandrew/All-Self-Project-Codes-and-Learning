@@ -1,0 +1,11 @@
+img{
+    display: block;
+}
+
+#image{
+    max-width: 100%;
+}
+
+#img-div{
+    margin: 0 auto;
+}
